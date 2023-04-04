@@ -16,7 +16,7 @@
     "browserify-optional": "^1.0.0",
     "classnames": "^2.2.6",
     "eve": "~0.5.1",
-    "prop-types": "^15.7.2",
+    "prop-types": "^15.8.1",
     "snapsvg-cjs": "0.0.6"
   },
   "devDependencies": {
